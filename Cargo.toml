@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "binary-v8",
+    "binary-v7",
+    "kernel",
+    "program",
+]
