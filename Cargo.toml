@@ -4,4 +4,5 @@ members = [
     "binary-v7",
     "kernel",
     "program",
+    "xtask",
 ]
